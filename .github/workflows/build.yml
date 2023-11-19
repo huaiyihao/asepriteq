@@ -1,3 +1,4 @@
+【白嫖正版Aseprite】像素画软件在线编译打包所需代码
 name: build
 on: [push, pull_request]
 jobs:
